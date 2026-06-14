@@ -1,0 +1,3 @@
+patch:
+  schema_list:
+    - schema: starmoon_sc  # 以简化汉字为主设置简码
