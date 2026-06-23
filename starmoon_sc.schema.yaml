@@ -19,7 +19,7 @@ schema:
 switches:
   - name: yuhao_charset_prioritizer_tonggui
     states: [平衡字頻, 簡體優先]
-    # 數字 0
+    reset: 1
   - options:
       - original
       - yuhao_charset_prioritizer_common
