@@ -9,18 +9,14 @@ version: "20260302"
 sort: original
 import_tables:
   - yuhao/starmoon_sc.quick
-  # - yuhao/starmoon_zh.quick
-  # - yuhao/starmoon_by.quick
-  # - yuhao/starmoon_all.quick
   - yuhao/starmoon.full
-  - yuhao/starmoon_zh.short
-  # - yuhao/starmoon_by.short
+  - yuhao/starmoon_sc.short
   - yuhao/starmoon.roots
   - yuhao/yuhao.private
   - yuhao/starmoon_sc.words
-  # - yuhao/starmoon_tc.words
   - yuhao/yuhao.symbols
   - yuhao/yuhao.symbols_inline
+  - yuhao/yuhao.symbols_kuai
   - yuhao/yuhao.extended
 columns:
   - text
