@@ -8,7 +8,8 @@ name: "starmoon_sc"
 version: "20260302"
 sort: original
 import_tables:
-  - yuhao/starmoon_zh.quick
+  - yuhao/starmoon_sc.quick
+  # - yuhao/starmoon_zh.quick
   # - yuhao/starmoon_by.quick
   # - yuhao/starmoon_all.quick
   - yuhao/starmoon.full
