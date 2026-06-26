@@ -76,6 +76,7 @@ engine:
     - ascii_composer
     - recognizer
     - key_binder
+    - lua_processor@*yuhao.z_word_select            # z反查以詞定字
     - speller
     - punctuator
     - selector
@@ -106,6 +107,7 @@ engine:
     - simplifier@simplify
     - lua_filter@*yuhao.yuhao_chaifen_filter
     - lua_filter@*yuhao.yuhao_postpone_full_code
+    - lua_filter@*yuhao.yuhao_short_code_hint
     - lua_filter@*yuhao.yuhao_charset_prioritizer_common
     - lua_filter@*yuhao.yuhao_charset_prioritizer_ubiquitous
     - lua_filter@*yuhao.yuhao_charset_prioritizer_tonggui    
