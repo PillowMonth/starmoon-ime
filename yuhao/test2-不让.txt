@@ -11,6 +11,7 @@
 这	p
 人	dj
 在	xh
+在	xhh
 了	l
 就	v
 你	e
@@ -257,6 +258,7 @@
 平	psm
 十	rj
 怎	oc
+怎	occ
 代	en
 代	enr
 该	df
@@ -569,6 +571,7 @@
 热	fsi
 参	gmw
 极	au
+众	ddd
 失	wm
 即	yd
 即	ydn
@@ -729,10 +732,12 @@
 层	tlg
 婚	ts
 婚	tsh
+词	dff
 翻	wo
 杀	ba
 争	rlf
 尽	til
+肉	ldd
 艺	if
 艺	ifh
 洗	nt
@@ -928,6 +933,7 @@
 龙	uwl
 止	od
 货	ewu
+操	fkk
 纪	xxk
 括	fkx
 银	my
@@ -2474,6 +2480,7 @@
 饺	ram
 甄	yho
 凸	hfh
+硅	whh
 屡	tot
 栋	ahi
 梨	gea
@@ -2932,6 +2939,7 @@
 磅	was
 虔	cpb
 楠	arl
+靓	huu
 朽	ahw
 焊	ojp
 狡	bam
@@ -3166,7 +3174,9 @@
 袱	yeb
 锂	mkv
 薰	ijv
+襟	yaa
 柬	avs
+鳄	rkk
 狩	bla
 陨	tku
 虏	cqj
@@ -3345,6 +3355,7 @@
 褐	yjo
 怅	ccn
 疡	mfw
+颧	ikk
 腑	ube
 泸	nct
 谙	dwj
@@ -3733,6 +3744,7 @@
 砚	wug
 磋	wbv
 掳	fcq
+扈	tkk
 郜	tkt
 箔	ond
 骶	qs
@@ -4078,6 +4090,7 @@
 觥	roi
 钏	mxi
 驸	cea
+衢	vyy
 鏖	iqy
 醚	yog
 疸	mjf
@@ -4110,6 +4123,7 @@
 奂	rlm
 霭	udj
 锏	mjj
+黜	vvv
 忤	cor
 狷	bku
 嵋	jty
@@ -4384,6 +4398,7 @@
 辎	hxp
 傕	ere
 仟	ejk
+杈	aii
 爰	npi
 菖	ijj
 喹	kmh
@@ -4433,6 +4448,7 @@
 漯	npr
 潴	nbh
 炔	ohd
+珪	ghh
 萸	ipd
 蓖	ikb
 诓	dag
@@ -4472,6 +4488,7 @@
 蹚	vqh
 唁	kpv
 坩	hil
+擢	fff
 脲	utn
 毐	hsx
 悭	chi
@@ -4857,6 +4874,7 @@
 榖	hfa
 璁	gkx
 疍	foj
+瘿	muu
 砵	waf
 祧	bjl
 罽	qwo
@@ -4975,6 +4993,7 @@
 慊	csl
 泺	nsi
 狯	bdl
+癯	myy
 穑	grs
 舻	xct
 谂	ddi
@@ -5089,6 +5108,7 @@
 菹	inm
 蓠	ipv
 裎	yk
+诎	dvv
 赜	ahu
 轾	hhr
 锖	mhu
@@ -5412,6 +5432,7 @@
 鞴	biw
 骣	ctl
 髃	qkb
+髽	wdd
 鼒	ewy
 俍	eiy
 俫	efo
@@ -5581,6 +5602,7 @@
 讻	dbv
 贶	ukj
 赒	uoh
+蹐	vll
 轪	hmr
 辁	hdg
 邘	fet
