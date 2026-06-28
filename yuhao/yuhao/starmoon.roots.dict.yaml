@@ -1,0 +1,274 @@
+# encoding: utf-8
+---
+name: "starmoon.roots"
+version: "20260302"
+sort: original
+columns:
+  - text
+  - code
+...
+
+星月字根編碼提示	/sm
+輸入對應大碼字母	/sm
+匚牙入寸木朩亠臣來	/sma
+烏乂革羊示广犬鳥	/smb
+辰卜鹵心长亦马虍虎	/smc
+風殳人几而㔾卩白馬面	/smd
+其之豕隹刀	/sme
+飛乙亅亥一习	/smf
+幺厶禾⻍辶王身丄上夭食	/smg
+未合土七僉至〢〣丨士车耂丂末	/smh
+麻方又丶乀走艹鹿亍⺌小癶世卅卌廾	/smi
+门毛儿日山千斤爿片曰非壬	/smj
+乌禺正向巴口甲〇鸟也生乜里舌	/smk
+門气彐肀鬥⺀二穴孑冂子予隶了宀	/sml
+夫曲八且大丑疒	/smm
+不三戈爪弋戊水氺瓜	/smn
+勹瓦齒止灬用火竹米早古	/smo
+电文由巾甶鬼丬魚甫干申言田臼	/smp
+乚骨力咼尚皿罒丰車皮金	/smq
+矢鱼十糸缶冖欠	/smr
+丁卯九耳丅下丷业虫母彑豸	/sms
+户戸女牛尸	/smt
+页尤兀自雨丌见乃夕尢月贝	/smu
+凵亡弓丱高彳足囗屮工丩黑廴	/smv
+髟厂戶匕辛手丿立彡長镸石丆	/smw
+舟夊攵巛巜川己巳已	/smx
+頁冊目西見艮貝酉	/smy
++ c = 匚	/sma
++ h = 牙	/sma
++ i = 	/sma
++ j = 入	/sma
++ k = 寸	/sma
++ l = 木朩	/sma
++ m = 亠臣	/sma
++ n = 來	/sma
++ a = 烏	/smb
++ h = 乂	/smb
++ i = 革	/smb
++ j = 羊	/smb
++ k = 示	/smb
++ m = 广	/smb
++ n = 犬	/smb
++ q = 鳥	/smb
++ j = 辰	/smc
++ k = 卜	/smc
++ l = 鹵	/smc
++ m = 心	/smc
++ n = 长	/smc
++ o = 亦	/smc
++ u = 马	/smc
++ v = 	/smc
++ x = 虍虎	/smc
++ d = 	/smd
++ f = 風	/smd
++ h = 殳	/smd
++ j = 人	/smd
++ k = 几	/smd
++ m = 而	/smd
++ n = 㔾卩	/smd
++ s = 白	/smd
++ u = 馬	/smd
++ v = 	/smd
++ y = 面	/smd
++ h = 其	/sme
++ j = 之	/sme
++ k = 豕	/sme
++ l = 隹	/sme
++ u = 刀	/sme
++ f = 飛	/smf
++ h = 乙亅	/smf
++ i = 亥	/smf
++ k = 	/smf
++ n = 一	/smf
++ y = 习	/smf
++ a = 幺	/smg
++ h = 厶	/smg
++ i = 禾	/smg
++ j = ⻍辶	/smg
++ k = 王	/smg
++ m = 身	/smg
++ n = 丄上	/smg
++ u = 夭	/smg
++ y = 食	/smg
++ a = 未	/smh
++ d = 合	/smh
++ e = 土	/smh
++ g = 七	/smh
++ k = 	/smh
++ q = 僉	/smh
++ r = 至	/smh
++ s = 〢〣丨士	/smh
++ t = 车	/smh
++ u = 耂	/smh
++ v = 	/smh
++ w = 丂	/smh
++ x = 末	/smh
++ a = 麻	/smi
++ c = 方	/smi
++ d = 又	/smi
++ e = 丶乀	/smi
++ g = 走	/smi
++ k = 艹	/smi
++ q = 鹿	/smi
++ r = 亍	/smi
++ s = ⺌小癶	/smi
++ w = 世	/smi
++ x = 卅卌廾	/smi
++ a = 门	/smj
++ b = 毛	/smj
++ c = 儿	/smj
++ d = 日	/smj
++ g = 山	/smj
++ k = 千	/smj
++ s = 斤	/smj
++ t = 爿片	/smj
++ v = 曰	/smj
++ w = 非	/smj
++ x = 壬	/smj
++ a = 乌	/smk
++ b = 禺	/smk
++ c = 正	/smk
++ d = 向	/smk
++ e = 巴	/smk
++ f = 口	/smk
++ g = 甲	/smk
++ l = 〇	/smk
++ q = 鸟	/smk
++ r = 也	/smk
++ s = 生	/smk
++ t = 乜	/smk
++ v = 里	/smk
++ x = 舌	/smk
++ a = 門	/sml
++ c = 气	/sml
++ d = 彐肀鬥	/sml
++ e = ⺀二	/sml
++ g = 穴	/sml
++ j = 孑	/sml
++ r = 冂子	/sml
++ s = 予	/sml
++ t = 隶	/sml
++ v = 了	/sml
++ w = 宀	/sml
++ a = 夫	/smm
++ c = 曲	/smm
++ d = 八	/smm
++ f = 且	/smm
++ r = 大	/smm
++ u = 	/smm
++ x = 丑疒	/smm
++ y = 	/smm
++ d = 不	/smn
++ e = 三	/smn
++ g = 戈	/smn
++ k = 爪	/smn
++ r = 弋	/smn
++ t = 戊	/smn
++ v = 水氺	/smn
++ w = 瓜	/smn
++ a = 勹	/smo
++ b = 瓦	/smo
++ c = 齒	/smo
++ d = 止灬	/smo
++ e = 用	/smo
++ g = 火	/smo
++ i = 竹	/smo
++ s = 米	/smo
++ t = 早	/smo
++ x = 古	/smo
++ a = 电	/smp
++ b = 文	/smp
++ d = 由	/smp
++ e = 巾	/smp
++ f = 甶鬼	/smp
++ g = 丬	/smp
++ i = 魚	/smp
++ q = 甫	/smp
++ s = 干	/smp
++ t = 申	/smp
++ v = 言	/smp
++ w = 田	/smp
++ x = 臼	/smp
++ h = 乚	/smq
++ i = 骨	/smq
++ j = 力	/smq
++ k = 咼	/smq
++ l = 尚	/smq
++ m = 皿罒	/smq
++ n = 丰	/smq
++ t = 車	/smq
++ u = 皮	/smq
++ y = 金	/smq
++ h = 矢	/smr
++ i = 鱼	/smr
++ j = 十	/smr
++ k = 糸	/smr
++ n = 缶	/smr
++ w = 冖	/smr
++ y = 欠	/smr
++ h = 丁	/sms
++ j = 卯	/sms
++ k = 九	/sms
++ l = 耳	/sms
++ m = 丅下丷	/sms
++ n = 业	/sms
++ o = 虫	/sms
++ p = 	/sms
++ u = 母	/sms
++ v = 彑	/sms
++ y = 豸	/sms
++ h = 户戸	/smt
++ i = 女	/smt
++ k = 	/smt
++ l = 牛	/smt
++ u = 尸	/smt
++ a = 页	/smu
++ c = 尤	/smu
++ d = 兀	/smu
++ e = 自	/smu
++ f = 雨	/smu
++ g = 丌见	/smu
++ r = 乃	/smu
++ s = 夕	/smu
++ t = 尢	/smu
++ v = 月	/smu
++ w = 贝	/smu
++ c = 凵亡	/smv
++ d = 弓	/smv
++ g = 丱	/smv
++ h = 高	/smv
++ i = 彳	/smv
++ j = 足	/smv
++ k = 囗屮工	/smv
++ l = 丩	/smv
++ n = 黑	/smv
++ v = 	/smv
++ y = 廴	/smv
++ d = 髟	/smw
++ e = 厂	/smw
++ h = 戶	/smw
++ i = 匕	/smw
++ j = 辛	/smw
++ k = 手	/smw
++ l = 丿立	/smw
++ m = 彡	/smw
++ n = 長镸	/smw
++ o = 石	/smw
++ y = 丆	/smw
++ d = 舟	/smx
++ h = 夊攵	/smx
++ i = 巛巜川	/smx
++ k = 己	/smx
++ m = 	/smx
++ n = 巳	/smx
++ u = 已	/smx
++ a = 頁	/smy
++ b = 冊	/smy
++ c = 目	/smy
++ d = 	/smy
++ e = 西	/smy
++ g = 見	/smy
++ v = 艮	/smy
++ w = 貝	/smy
++ x = 酉	/smy
