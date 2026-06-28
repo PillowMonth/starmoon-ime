@@ -32,15 +32,15 @@ columns:
 以	qid
 来	fo
 为	i
-上	g
+上	gn
 都	h
 都	hjt
 时	ja
-也	k
+也	kr
 到	he
 说	ds
-自	u
-能	gu
+自	ue
+能	g
 没	nd
 没	ndh
 可	s
@@ -52,19 +52,19 @@ columns:
 他	ekr
 么	wg
 么	wgh
-多	uu
+多	u
 多	uus
 和	gk
 好	t
 学	ir
 还	ng
-中	kh
+中	k
 对	ia
 对	iak
 得	vj
 后	wf
 过	a
-但	ej
+们	ej
 那	fj
 那	fjt
 生	ks
@@ -83,7 +83,7 @@ columns:
 问	jkf
 想	ay
 本	af
-伟	ejf
+但	ejf
 而	dm
 用	oe
 最	js
@@ -96,7 +96,7 @@ columns:
 实	llm
 子	lr
 己	xk
-现	gug
+现	gu
 天	fm
 里	kv
 什	er
@@ -123,8 +123,8 @@ columns:
 地	hk
 地	hkr
 方	ic
-心	c
-点	ck
+心	cm
+点	c
 觉	iru
 做	eox
 些	ow
@@ -164,7 +164,6 @@ columns:
 别	kqe
 给	xhd
 两	fl
-手	wk
 体	ea
 体	eaf
 三	ne
@@ -181,6 +180,7 @@ columns:
 者	hj
 动	lg
 打	fs
+性	ck
 性	cks
 相	ayc
 身	gm
@@ -193,6 +193,7 @@ columns:
 次	lry
 太	mi
 美	bm
+部	wk
 部	wkt
 明	ju
 明	juv
@@ -296,7 +297,6 @@ columns:
 头	lm
 见	ug
 产	wwl
-且	mf
 买	flm
 像	erk
 西	ye
@@ -305,6 +305,7 @@ columns:
 网	lbb
 类	om
 类	omr
+朋	uu
 朋	uuv
 量	jfk
 放	ixh
@@ -325,7 +326,7 @@ columns:
 影	jv
 场	hfw
 首	sue
-吧	kk
+品	kk
 师	sf
 师	sfp
 总	sk
@@ -357,7 +358,6 @@ columns:
 制	tl
 观	iu
 越	in
-口	kf
 视	bu
 视	bug
 此	owi
@@ -404,6 +404,7 @@ columns:
 读	drf
 刚	lbe
 界	pd
+钱	mf
 钱	mfn
 死	fuw
 风	db
@@ -417,7 +418,7 @@ columns:
 战	ckn
 请	dhu
 收	vxh
-哪	kfj
+哪	kf
 百	wjd
 海	no
 海	nos
@@ -448,6 +449,7 @@ columns:
 某	ila
 英	ilm
 级	xui
+哈	kh
 哈	khd
 马	cu
 字	llr
@@ -519,7 +521,6 @@ columns:
 周	ohk
 初	yeu
 亲	wal
-言	pv
 标	abk
 概	aya
 演	nl
@@ -543,6 +544,7 @@ columns:
 优	euc
 角	roe
 除	td
+离	pv
 离	pvl
 城	hn
 南	rl
@@ -633,7 +635,6 @@ columns:
 留	spw
 谈	doo
 投	fdh
-火	og
 星	jks
 换	frl
 尔	ris
@@ -652,7 +653,7 @@ columns:
 拍	fds
 配	yx
 怕	cds
-笑	ogu
+笑	og
 命	dfk
 假	etl
 养	sms
@@ -703,7 +704,6 @@ columns:
 奇	ms
 器	kkb
 岁	jus
-环	gn
 环	gnd
 组	xm
 练	xhf
@@ -711,7 +711,7 @@ columns:
 诉	dji
 按	flt
 脸	udf
-则	ue
+则	ueu
 充	ag
 兴	imd
 挺	fjv
@@ -730,7 +730,6 @@ columns:
 搞	fvh
 源	nw
 源	nwd
-皮	qu
 懂	cij
 双	ii
 双	iid
@@ -816,6 +815,7 @@ columns:
 掉	fc
 掉	fco
 响	kkd
+罗	qu
 罗	qus
 狗	bo
 狗	bok
@@ -1049,7 +1049,6 @@ columns:
 融	fkl
 顶	sua
 洲	nix
-牙	ah
 庭	bj
 漫	njq
 镜	mwj
@@ -1132,6 +1131,7 @@ columns:
 刘	pe
 淘	nor
 弱	vlv
+巨	ah
 巨	ahx
 尊	sy
 航	xad
@@ -1170,6 +1170,7 @@ columns:
 绩	xhu
 骗	ct
 骗	cty
+透	gug
 忽	owc
 售	ekf
 抽	fpd
@@ -1211,12 +1212,11 @@ columns:
 雷	upw
 隐	tr
 隐	trl
-申	pt
 签	odf
 胡	ouv
 符	oea
 烧	ohw
-吹	kr
+吹	kry
 呼	kw
 稍	giu
 疗	mlv
@@ -1277,6 +1277,7 @@ columns:
 顿	hv
 顿	hvu
 兄	kjc
+妆	pt
 妆	pti
 丰	qn
 禁	aab
@@ -1286,7 +1287,7 @@ columns:
 腾	usm
 喷	kri
 烟	ovm
-骑	cm
+骑	cms
 岛	kjg
 蒙	irf
 协	rq
@@ -1542,7 +1543,6 @@ columns:
 盗	lrq
 姨	tmv
 讯	dfr
-虎	cx
 缓	xn
 缓	xnp
 扣	fkf
@@ -1741,7 +1741,6 @@ columns:
 朱	tmd
 乔	gsp
 酱	puy
-乃	ur
 津	nlj
 紫	owr
 绘	xdl
@@ -1772,7 +1771,6 @@ columns:
 熬	hox
 亏	fhw
 漏	ntu
-虫	so
 抬	fg
 抬	fgk
 吊	kp
@@ -1787,6 +1785,7 @@ columns:
 饿	rwf
 猎	bij
 戚	ngi
+怖	cx
 怖	cxp
 盈	uiq
 闺	jhh
@@ -1806,7 +1805,7 @@ columns:
 驱	cab
 渠	nah
 曹	ujd
-脆	urw
+脆	ur
 氛	lme
 宙	lpd
 寄	lms
@@ -1946,6 +1945,7 @@ columns:
 宏	lxg
 扑	fck
 遥	nrg
+耻	so
 耻	sod
 跪	vrw
 栏	asl
@@ -2395,7 +2395,7 @@ columns:
 熙	axo
 猥	bpc
 伐	eng
-品	kkk
+噪	kkk
 俺	emp
 崔	jel
 龟	rpa
@@ -2546,7 +2546,6 @@ columns:
 喘	kjd
 嗨	kno
 掐	frp
-烘	oim
 薯	iqh
 猩	bjk
 窄	loc
@@ -2695,6 +2694,7 @@ columns:
 蝴	sou
 乍	ocv
 卿	syv
+粪	oim
 饶	rhw
 喇	kak
 枉	agk
@@ -3368,11 +3368,11 @@ columns:
 颧	ikk
 腑	ube
 泸	nct
-谙	dwj
 泯	nxh
 熵	oas
 杞	axk
 淌	nql
+赡	urw
 舜	nru
 鸯	lmk
 呱	knw
@@ -3427,6 +3427,7 @@ columns:
 冢	rei
 髅	qot
 缈	xyi
+诣	dwj
 脯	upq
 沓	njd
 惆	coh
@@ -3544,6 +3545,7 @@ columns:
 膈	ufk
 涟	nhg
 邃	lse
+哽	kfj
 抡	fdw
 荚	ims
 蹂	vlw
@@ -4014,7 +4016,6 @@ columns:
 鳅	rgo
 芍	ioi
 鸢	nkq
-庖	box
 匝	ape
 钨	mka
 饽	rrr
@@ -4053,7 +4054,6 @@ columns:
 栾	cal
 祚	boc
 娈	cti
-祇	bsh
 鸨	wrk
 蓟	ire
 獗	bws
@@ -4064,6 +4064,7 @@ columns:
 锺	mjk
 髻	whk
 邺	stk
+狍	box
 褓	yek
 鹘	qkq
 黠	vhk
@@ -4125,6 +4126,7 @@ columns:
 澍	nha
 侑	exu
 窣	lad
+祗	bsh
 糍	osg
 峦	cjg
 诿	dgt
@@ -4269,7 +4271,6 @@ columns:
 忻	cjs
 汩	njv
 珺	glw
-佶	ehk
 岫	jpd
 缦	xjq
 岘	jug
@@ -4352,6 +4353,7 @@ columns:
 箸	ohj
 钡	muw
 颏	fua
+僖	ehk
 喟	kpu
 垚	hhh
 璟	gjv
@@ -4391,7 +4393,6 @@ columns:
 镲	mlu
 鳏	rqn
 侪	eps
-哝	kry
 妁	toi
 桁	avi
 沣	nqn
@@ -5029,7 +5030,6 @@ columns:
 铘	mat
 鲼	rri
 鳢	rmf
-刖	ueu
 嫱	trs
 嬿	tif
 屾	jjg
@@ -5153,7 +5153,7 @@ columns:
 鲉	rpd
 鲏	rqu
 鳣	rav
-们	eja
+倮	eja
 刭	ive
 嚭	hkn
 圐	vqi
@@ -5347,6 +5347,7 @@ columns:
 礅	wvl
 禚	bbo
 篥	oya
+簃	ogu
 簕	obq
 缐	xdn
 羖	bdh
@@ -5551,7 +5552,6 @@ columns:
 恧	dcm
 悢	ciy
 慆	cnp
-憭	cms
 拤	fgc
 撖	ffs
 攽	mex
