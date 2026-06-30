@@ -24,7 +24,7 @@ switches:
       - yuhao_charset_prioritizer_common
       - yuhao_charset_prioritizer_ubiquitous
     states: [原始排序, 常用字優先, 極常用字優先]
-    reset: 2
+    reset: 1
     # Control+Shift+M
   - options:
       - cjk
