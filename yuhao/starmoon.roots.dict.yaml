@@ -32,7 +32,7 @@ columns:
 户戸女牛尸	/smt
 页尤兀自雨丌见乃夕尢月贝	/smu
 凵亡弓丱高彳足囗屮工丩黑廴	/smv
-髟厂戶匕辛手丿立彡長镸石丆	/smw
+髟丆厂戶匕辛手丿立彡長镸石	/smw
 舟夊攵巛巜川己巳已	/smx
 頁冊目西見艮貝酉	/smy
 + c = 匚	/sma
@@ -246,7 +246,7 @@ columns:
 + v = 	/smv
 + y = 廴	/smv
 + d = 髟	/smw
-+ e = 厂	/smw
++ e = 丆厂	/smw
 + h = 戶	/smw
 + i = 匕	/smw
 + j = 辛	/smw
@@ -255,7 +255,6 @@ columns:
 + m = 彡	/smw
 + n = 長镸	/smw
 + o = 石	/smw
-+ y = 丆	/smw
 + d = 舟	/smx
 + h = 夊攵	/smx
 + i = 巛巜川	/smx
