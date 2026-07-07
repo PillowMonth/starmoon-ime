@@ -16,25 +16,22 @@ schema:
     - starmoon_chaifen
 
 switches:
-  - name: yuhao_charset_prioritizer_tonggui
-    states: [平衡字頻, 簡體優先]
-    reset: 1
   - options:
       - original
+      - yuhao_charset_prioritizer_tonggui
       - yuhao_charset_prioritizer_common
-      - yuhao_charset_prioritizer_ubiquitous
-    states: [原始排序, 常用字優先, 極常用字優先]
+    states: [原始排序, 簡化字先, 常用字先]
     reset: 1
     # Control+Shift+M
   - options:
       - cjk
-      - yuhao_charset_filter_common
       - yuhao_charset_filter_tonggui
-    states: [全漢字, 常用字, 通规字]
+      - yuhao_charset_filter_common
+    states: [全部漢字, 僅通规字, 僅常用字]
     reset: 0
     # Control+Shift+O
   - name: yuhao_single_char_only_for_full_code
-    states: ["字詞同出", "全碼出單"]
+    states: ["字詞同出", "主單模式"]
     reset: 0
     # Control+Shift+D
   - name: yuhao_postpone_full_code
